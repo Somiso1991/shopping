@@ -2,12 +2,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    direction: rtl; /* متن راست‌چین */
+    direction: rtl; 
     background-color: #f4f4f4;
     color: #333;
 }
-
-/* هدر */
 header {
     background-color: #333;
     color: white;
@@ -43,7 +41,7 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* محتوای اصلی */
+
 main {
     padding: 20px;
 }
@@ -100,7 +98,7 @@ main {
     background-color: #218838;
 }
 
-/* فوتر */
+
 footer {
     background-color: #333;
     color: white;
